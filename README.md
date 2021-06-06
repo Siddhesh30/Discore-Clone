@@ -5,11 +5,10 @@ A Discord Clone with React.js + REDUX + Firebase.
 
 <br></br>
 <center>
-<img src="./src/static/discord1.jpg" style="width: 80%">
+![image](https://user-images.githubusercontent.com/57897149/120914269-adfa2280-c6ba-11eb-81fa-0162f4e46702.png)
 </center>
 <br><br/>
 <center>
-<img src="./src/static/discord2.jpg" style="width: 80%">
 </center>
 </p>
 
