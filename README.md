@@ -13,9 +13,11 @@ A Discord Clone with React.js + REDUX + Firebase.
 </center>
 </p>
 
+## Firebase Tut
 
-
-
+Create a project on Firebase and paste your
+API_Key in firebase.js
+ 
 ## Available Scripts
 
 In the project directory, you can run:
