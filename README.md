@@ -2,12 +2,9 @@
 
 <p align="center">
 A Discord Clone with React.js + REDUX + Firebase.
+ 
+ ![image](https://user-images.githubusercontent.com/57897149/120914284-c702d380-c6ba-11eb-8611-d6fd8b7c2017.png)
 
-<br></br>
-<center>
-![image](https://user-images.githubusercontent.com/57897149/120914269-adfa2280-c6ba-11eb-81fa-0162f4e46702.png)
-</center>
-<br><br/>
 <center>
 </center>
 </p>
